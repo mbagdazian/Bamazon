@@ -1,0 +1,15 @@
+{
+  "name": "bamazonapp",
+  "version": "1.0.0",
+  "description": "A mock store front application for Node/CLI",
+  "main": "Bamazon.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "author": "Michael Bagdazian",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
